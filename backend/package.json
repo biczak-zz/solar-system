@@ -1,0 +1,17 @@
+{
+  "name": "solar-system-backend",
+  "version": "0.1.0",
+  "description": "A replica of the Solar System made with React and Styled-Components.",
+  "main": "src/index.js",
+  "repository": "https://github.com/biczak/solar-system",
+  "author": "Alex Biczak <alex.biczak@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
