@@ -7,6 +7,9 @@
   "author": "Alex Biczak <alex.biczak@gmail.com>",
   "license": "UNLICENSED",
   "private": true,
+  "scripts": {
+    "start": "nodemon ."
+  },
   "dependencies": {
     "dotenv": "^8.0.0",
     "express": "^4.17.0"
